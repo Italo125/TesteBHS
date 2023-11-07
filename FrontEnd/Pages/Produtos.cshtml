@@ -1,0 +1,120 @@
+﻿@page
+@model PrivacyModel
+@{
+    ViewData["Title"] = "Produtos";
+}
+@section Styles {
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta2/css/all.min.css"/>
+}
+
+<h1>@ViewData["Title"]</h1>
+
+<div>
+    <a href="javascript:CadastrarProduto()" class="btn btn-success float-right my-4 bold">Novo produto <i class="ml-1 fa fa-plus"></i></a>
+</div>
+<div class="table-responsive">
+    <table class="table table-striped">
+        <thead>
+            <tr>
+                <th>Nome</th>
+                <th>Status</th>
+                <th class="text-center">Ações</th>
+            </tr>
+        </thead>
+        <tbody id="tbodyProdutos">
+        </tbody>
+    </table>
+</div>
+
+<div id="ModalCadastro" class="modal" tabindex="-1" role="dialog">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title">Novo Produto</h5>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body">
+                <form>
+                    <div class="form-group">
+                        <label for="NomeProdutoCadastrar">Nome</label>
+                        <input type="text" class="form-control" id="NomeProdutoCadastrar" placeholder="Digite o nome do produto">
+                    </div>
+                    <div class="form-group">
+                        <label for="StatusProdutoCadastrar">Status</label>
+                        <select class="form-control" id="StatusProdutoCadastrar">
+                            <option value="1">Ativo</option>
+                            <option value="0">Inativo</option>
+                        </select>
+                    </div>
+                </form>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-light" data-dismiss="modal">Cancelar</button>
+                <button type="button" class="btn btn-success" id="BtnCadastrarProduto">Salvar</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div id="ModalEditar" class="modal" tabindex="-1" role="dialog">
+    @Html.Hidden("IdProdutoEditar")
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title">Editar Produto</h5>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body">
+                <form>
+                    <div class="form-group">
+                        <label for="NomeProdutoEditar">Nome</label>
+                        <input type="text" class="form-control" id="NomeProdutoEditar" placeholder="Digite o nome do produto">
+                    </div>
+                    <div class="form-group">
+                        <label for="StatusProdutoEditar">Status</label>
+                        <select class="form-control" id="StatusProdutoEditar">
+                            <option value="1">Ativo</option>
+                            <option value="0">Inativo</option>
+                        </select>
+                    </div>
+                </form>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-light" data-dismiss="modal">Cancelar</button>
+                <button type="button" class="btn btn-success" id="BtnEditarProduto">Salvar</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div id="ModalDeletar" class="modal" tabindex="-1" role="dialog">
+    @Html.Hidden("IdProdutoDeletar")
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header bg-danger">
+                <h5 class="modal-title text-white">Deletar Produto</h5>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body">
+                <h6>Tem certeza que deseja deletar esse produto?</h6>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-light" data-dismiss="modal">Cancelar</button>
+                <button type="button" class="btn btn-danger" id="BtnDeletarProduto">Deletar</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+@section Scripts {
+    <script src="//cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta2/js/all.min.js"></script>
+    <script type="text/javascript" src="~/js/produtos.js"></script>
+}

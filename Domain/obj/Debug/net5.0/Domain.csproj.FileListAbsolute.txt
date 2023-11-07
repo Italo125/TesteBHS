@@ -1,0 +1,57 @@
+C:\Users\Administrador\Desktop\Nova pasta\TesteBHS-master\Domain\bin\Debug\net5.0\Domain.deps.json
+C:\Users\Administrador\Desktop\Nova pasta\TesteBHS-master\Domain\bin\Debug\net5.0\Domain.dll
+C:\Users\Administrador\Desktop\Nova pasta\TesteBHS-master\Domain\bin\Debug\net5.0\Domain.pdb
+C:\Users\Administrador\Desktop\Nova pasta\TesteBHS-master\Domain\bin\Debug\net5.0\Data.dll
+C:\Users\Administrador\Desktop\Nova pasta\TesteBHS-master\Domain\bin\Debug\net5.0\Models.dll
+C:\Users\Administrador\Desktop\Nova pasta\TesteBHS-master\Domain\bin\Debug\net5.0\Services.dll
+C:\Users\Administrador\Desktop\Nova pasta\TesteBHS-master\Domain\bin\Debug\net5.0\Services.pdb
+C:\Users\Administrador\Desktop\Nova pasta\TesteBHS-master\Domain\bin\Debug\net5.0\Data.pdb
+C:\Users\Administrador\Desktop\Nova pasta\TesteBHS-master\Domain\bin\Debug\net5.0\Models.pdb
+C:\Users\Administrador\Desktop\Nova pasta\TesteBHS-master\Domain\obj\Debug\net5.0\Domain.csproj.AssemblyReference.cache
+C:\Users\Administrador\Desktop\Nova pasta\TesteBHS-master\Domain\obj\Debug\net5.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrador\Desktop\Nova pasta\TesteBHS-master\Domain\obj\Debug\net5.0\Domain.AssemblyInfoInputs.cache
+C:\Users\Administrador\Desktop\Nova pasta\TesteBHS-master\Domain\obj\Debug\net5.0\Domain.AssemblyInfo.cs
+C:\Users\Administrador\Desktop\Nova pasta\TesteBHS-master\Domain\obj\Debug\net5.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Desktop\Nova pasta\TesteBHS-master\Domain\obj\Debug\net5.0\Domain.csproj.CopyComplete
+C:\Users\Administrador\Desktop\Nova pasta\TesteBHS-master\Domain\obj\Debug\net5.0\Domain.dll
+C:\Users\Administrador\Desktop\Nova pasta\TesteBHS-master\Domain\obj\Debug\net5.0\refint\Domain.dll
+C:\Users\Administrador\Desktop\Nova pasta\TesteBHS-master\Domain\obj\Debug\net5.0\Domain.pdb
+C:\Users\Administrador\Desktop\Nova pasta\TesteBHS-master\Domain\obj\Debug\net5.0\ref\Domain.dll
+C:\Users\bully\OneDrive\Área de Trabalho\TesteBHS-master\Domain\bin\Debug\net5.0\Domain.deps.json
+C:\Users\bully\OneDrive\Área de Trabalho\TesteBHS-master\Domain\bin\Debug\net5.0\Domain.dll
+C:\Users\bully\OneDrive\Área de Trabalho\TesteBHS-master\Domain\bin\Debug\net5.0\Domain.pdb
+C:\Users\bully\OneDrive\Área de Trabalho\TesteBHS-master\Domain\bin\Debug\net5.0\Data.dll
+C:\Users\bully\OneDrive\Área de Trabalho\TesteBHS-master\Domain\bin\Debug\net5.0\Models.dll
+C:\Users\bully\OneDrive\Área de Trabalho\TesteBHS-master\Domain\bin\Debug\net5.0\Services.dll
+C:\Users\bully\OneDrive\Área de Trabalho\TesteBHS-master\Domain\bin\Debug\net5.0\Services.pdb
+C:\Users\bully\OneDrive\Área de Trabalho\TesteBHS-master\Domain\bin\Debug\net5.0\Data.pdb
+C:\Users\bully\OneDrive\Área de Trabalho\TesteBHS-master\Domain\bin\Debug\net5.0\Models.pdb
+C:\Users\bully\OneDrive\Área de Trabalho\TesteBHS-master\Domain\obj\Debug\net5.0\Domain.csproj.AssemblyReference.cache
+C:\Users\bully\OneDrive\Área de Trabalho\TesteBHS-master\Domain\obj\Debug\net5.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bully\OneDrive\Área de Trabalho\TesteBHS-master\Domain\obj\Debug\net5.0\Domain.AssemblyInfoInputs.cache
+C:\Users\bully\OneDrive\Área de Trabalho\TesteBHS-master\Domain\obj\Debug\net5.0\Domain.AssemblyInfo.cs
+C:\Users\bully\OneDrive\Área de Trabalho\TesteBHS-master\Domain\obj\Debug\net5.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\bully\OneDrive\Área de Trabalho\TesteBHS-master\Domain\obj\Debug\net5.0\Domain.csproj.CopyComplete
+C:\Users\bully\OneDrive\Área de Trabalho\TesteBHS-master\Domain\obj\Debug\net5.0\Domain.dll
+C:\Users\bully\OneDrive\Área de Trabalho\TesteBHS-master\Domain\obj\Debug\net5.0\refint\Domain.dll
+C:\Users\bully\OneDrive\Área de Trabalho\TesteBHS-master\Domain\obj\Debug\net5.0\Domain.pdb
+C:\Users\bully\OneDrive\Área de Trabalho\TesteBHS-master\Domain\obj\Debug\net5.0\ref\Domain.dll
+C:\Nova pasta\TesteBHS-master\Domain\bin\Debug\net5.0\Domain.deps.json
+C:\Nova pasta\TesteBHS-master\Domain\bin\Debug\net5.0\Domain.dll
+C:\Nova pasta\TesteBHS-master\Domain\bin\Debug\net5.0\Domain.pdb
+C:\Nova pasta\TesteBHS-master\Domain\bin\Debug\net5.0\Data.dll
+C:\Nova pasta\TesteBHS-master\Domain\bin\Debug\net5.0\Models.dll
+C:\Nova pasta\TesteBHS-master\Domain\bin\Debug\net5.0\Services.dll
+C:\Nova pasta\TesteBHS-master\Domain\bin\Debug\net5.0\Services.pdb
+C:\Nova pasta\TesteBHS-master\Domain\bin\Debug\net5.0\Data.pdb
+C:\Nova pasta\TesteBHS-master\Domain\bin\Debug\net5.0\Models.pdb
+C:\Nova pasta\TesteBHS-master\Domain\obj\Debug\net5.0\Domain.csproj.AssemblyReference.cache
+C:\Nova pasta\TesteBHS-master\Domain\obj\Debug\net5.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Nova pasta\TesteBHS-master\Domain\obj\Debug\net5.0\Domain.AssemblyInfoInputs.cache
+C:\Nova pasta\TesteBHS-master\Domain\obj\Debug\net5.0\Domain.AssemblyInfo.cs
+C:\Nova pasta\TesteBHS-master\Domain\obj\Debug\net5.0\Domain.csproj.CoreCompileInputs.cache
+C:\Nova pasta\TesteBHS-master\Domain\obj\Debug\net5.0\Domain.csproj.CopyComplete
+C:\Nova pasta\TesteBHS-master\Domain\obj\Debug\net5.0\Domain.dll
+C:\Nova pasta\TesteBHS-master\Domain\obj\Debug\net5.0\refint\Domain.dll
+C:\Nova pasta\TesteBHS-master\Domain\obj\Debug\net5.0\Domain.pdb
+C:\Nova pasta\TesteBHS-master\Domain\obj\Debug\net5.0\ref\Domain.dll
